@@ -11,7 +11,7 @@ Special thanks to the original authors for their excellent work.
 - Adapted part of the uncertainty estimation pipeline for new datasets on analogical reasoning
 
 
-# LM-Polygraph: Uncertainty estimation for LLMs
+# Can LLMs Recognize Their Own Analogical Hallucinations? Evaluating Uncertainty Estimation for Analogical Reasoning
 
 [Installation](#installation) | [Basic usage](#basic_usage) | [Overview](#overview_of_methods) | [Benchmark](#benchmark) | [Demo application](#demo_web_application) | [Documentation](https://lm-polygraph.readthedocs.io/)
 
